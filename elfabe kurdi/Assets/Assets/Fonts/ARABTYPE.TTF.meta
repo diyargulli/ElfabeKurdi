@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d18721c0ede4fb447b322065b98626fb
+timeCreated: 1511691567
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arabic Typesetting
+  fontNames:
+  - Arabic Typesetting
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

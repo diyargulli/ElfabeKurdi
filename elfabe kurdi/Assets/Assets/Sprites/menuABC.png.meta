@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: cc948cd2d7f54fb4691466681f075a9c
+timeCreated: 1511440124
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: menuABC_1
+    21300002: menuABC_2
+    21300004: menuABC_3
+    21300006: menuABC_4
+    21300008: menuABC_5
+    21300010: menuABC_6
+    21300012: menuABC_7
+    21300014: menuABC_8
+    21300016: menuABC_9
+    21300018: menuABC_19
+    21300020: menuABC_20
+    21300022: menuABC_21
+    21300024: menuABC_22
+    21300026: menuABC_23
+    21300028: menuABC_24
+    21300030: menuABC_25
+    21300032: menuABC_26
+    21300034: menuABC_28
+    21300036: menuABC_30
+    21300038: menuABC_36
+    21300040: menuABC_37
+    21300042: menuABC_38
+    21300044: menuABC_39
+    21300046: menuABC_40
+    21300048: menuABC_41
+    21300050: menuABC_43
+    21300052: menuABC_44
+    21300054: menuABC_48
+    21300056: menuABC_49
+    21300058: menuABC_50
+    21300060: menuABC_51
+    21300062: menuABC_52
+    21300064: menuABC_53
+    21300066: menuABC_55
+    21300068: menuABC_56
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menuABC_1
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1707
+        width: 32
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1604
+        width: 142
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1604
+        width: 142
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1604
+        width: 142
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1698
+        width: 182
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_7
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1612
+        width: 182
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_8
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1628
+        width: 182
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_9
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1711
+        width: 135
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_19
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1340
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1282
+        width: 255
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1282
+        width: 255
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_22
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1286
+        width: 123
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_23
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1286
+        width: 123
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_24
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1235
+        width: 123
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_25
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1284
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_26
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1241
+        width: 142
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 982
+        width: 198
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_30
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 982
+        width: 198
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_36
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 980
+        width: 220
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_37
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 980
+        width: 220
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_38
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 876
+        width: 150
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_39
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 876
+        width: 150
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_40
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 910
+        width: 153
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_41
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 564
+        width: 133
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_43
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 564
+        width: 135
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 554
+        width: 274
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_49
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 554
+        width: 130
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_50
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 554
+        width: 130
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_51
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 556
+        width: 146
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_52
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 507
+        width: 113
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_53
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 196
+        width: 178
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_55
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 196
+        width: 178
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menuABC_56
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 260
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

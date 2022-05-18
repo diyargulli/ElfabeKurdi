@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 83ae511c07d8ba44382e3752b6175ac7
+timeCreated: 1509358945
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Compset
+  fontNames:
+  - B Compset
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

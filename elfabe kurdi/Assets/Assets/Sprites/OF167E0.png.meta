@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: d05819ff54c400f40883c5ac944a3e24
+timeCreated: 1507366273
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OF167E0_0
+    21300002: OF167E0_1
+    21300004: OF167E0_2
+    21300006: OF167E0_3
+    21300008: OF167E0_4
+    21300010: OF167E0_5
+    21300012: OF167E0_6
+    21300014: OF167E0_7
+    21300016: OF167E0_8
+    21300018: OF167E0_9
+    21300020: OF167E0_10
+    21300022: OF167E0_11
+    21300024: OF167E0_12
+    21300026: OF167E0_13
+    21300028: OF167E0_14
+    21300030: OF167E0_15
+    21300032: OF167E0_16
+    21300034: OF167E0_17
+    21300036: OF167E0_18
+    21300038: OF167E0_19
+    21300040: OF167E0_20
+    21300042: OF167E0_21
+    21300044: OF167E0_22
+    21300046: OF167E0_23
+    21300048: OF167E0_24
+    21300050: OF167E0_25
+    21300052: OF167E0_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 8, y: 33, z: 20, w: 21}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OF167E0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 161
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 786
+        width: 134
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 786
+        width: 144
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 785
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 785
+        width: 139
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_5
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 785
+        width: 139
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_6
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 785
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 526
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 526
+        width: 70
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 526
+        width: 128
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 525
+        width: 151
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 525
+        width: 128
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_12
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 525
+        width: 186
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_13
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 524
+        width: 153
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 264
+        width: 162
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 264
+        width: 142
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 259
+        width: 169
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_17
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 263
+        width: 141
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_18
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 263
+        width: 142
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_19
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 262
+        width: 153
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 152
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 4
+        width: 164
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3
+        width: 187
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_23
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2
+        width: 155
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_24
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1
+        width: 154
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_25
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 155
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OF167E0_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 30
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -51.5, y: 78.5}
+      - {x: -51.5, y: -13.5}
+      - {x: -48.5, y: -14.5}
+      - {x: -44.5, y: -13.5}
+      - {x: -51.5, y: -27.5}
+      - {x: -51.5, y: -69.5}
+      - {x: -50.5, y: -70.5}
+      - {x: 24.5, y: -70.5}
+      - {x: 32.5, y: -45.5}
+      - {x: 32.5, y: 74.5}
+      - {x: 24.5, y: 78.5}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
