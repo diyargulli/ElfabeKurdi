@@ -1,1 +1,1 @@
-# ElfabeKurdi is kurdith kids alphabet tracing game source 
+# ElfabeKurdi is kurdish kids alphabet tracing game source 
